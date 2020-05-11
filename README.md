@@ -58,4 +58,5 @@ When drawing the *PI_cities* plots, I didn't want the state average curve to be 
 The `ax.get_legend_handles_labels()` command was sufficient to collect exactly the handles and labels I needed.
 
 * Customising the title of some plots
+
 Essentially tinkering with string formatting. In particular, for the *PI_cities* plots, one of four different title formats is selected, depending on the input given to the function.
